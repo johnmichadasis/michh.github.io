@@ -18,7 +18,7 @@ h1 {
 }
 .brxsmall {
     display: block;
-    margin-bottom: -1.5em;
+    margin-bottom: -2em;
 }
 .brxbig {
     display: block;
@@ -36,3 +36,20 @@ p {
 a {
     padding: 5px;
 }
+.mobile {
+    display: none;
+  }
+.mobile1 {
+  display: none;
+}
+  
+  @media only screen and (max-width: 980px) {
+     .computer {
+      display: none;
+    }
+    .mobile {
+      display: inline;
+      font-size: 3rem;
+      zoom: 150%;
+    }
+  }
