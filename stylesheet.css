@@ -12,13 +12,17 @@ body {
     }
 h1 {
         color: #131f31;
-        font-size: 4rem;
+        font-size: 3.6rem;
         line-height: 1.1;
         white-space: nowrap;
 }
 .brxsmall {
     display: block;
-    margin-bottom: -2em;
+    margin-bottom: -0.5em;
+}
+.brxxsmall {
+  display: block;
+  margin-bottom: -1.0em;
 }
 .brxbig {
     display: block;
@@ -49,7 +53,7 @@ a {
     }
     .mobile {
       display: inline;
-      font-size: 3rem;
+      font-size: 2rem;
       zoom: 150%;
     }
   }
