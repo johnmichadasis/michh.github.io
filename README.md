@@ -1,2 +1,2 @@
-# johnmichadasis.github.io
+# michadasis.github.io
 Redirection site
